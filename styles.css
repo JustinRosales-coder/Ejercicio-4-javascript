@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.contenedor{
+    margin-top: 80px;
+}
+ 
+h2{
+    font-size: 50px;
+    color: #333; 
+}
+
+
+button{
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#sumar{
+    background-color: green;
+    color: white;
+}
+
+#reiniciar{
+    background-color: bisque;
+    color: white;
+}
